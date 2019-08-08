@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 10 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\99413f5a-0036-453a-b4a8-287171249968
+// command took 6.6s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 in C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\99413f5a-0036-453a-b4a8-287171249968
