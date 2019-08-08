@@ -1,0 +1,11 @@
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\PerformanceCompare.deps.json
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\PerformanceCompare.runtimeconfig.json
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\PerformanceCompare.runtimeconfig.dev.json
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\PerformanceCompare.dll
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\bin\Release\netcoreapp2.2\PerformanceCompare.pdb
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\obj\Release\netcoreapp2.2\PerformanceCompare.csprojResolveAssemblyReference.cache
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\obj\Release\netcoreapp2.2\PerformanceCompare.csproj.CoreCompileInputs.cache
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\obj\Release\netcoreapp2.2\PerformanceCompare.AssemblyInfoInputs.cache
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\obj\Release\netcoreapp2.2\PerformanceCompare.AssemblyInfo.cs
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\obj\Release\netcoreapp2.2\PerformanceCompare.dll
+C:\Users\rjaiswal\source\repos\New folder\PerformanceCompare\PerformanceCompare\obj\Release\netcoreapp2.2\PerformanceCompare.pdb
